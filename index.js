@@ -89,7 +89,6 @@ function returnsANamedFunction() {
   return function jimmyCrickets() {};
 }
 
-function returnsAnonymousFunction(emmit) {
-  return function () {};
+function returnsAnAnonymousFunction() {
+  return () => {};
 }
-console.log("tewkgkw");
